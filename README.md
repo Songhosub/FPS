@@ -15,8 +15,12 @@ FPS게임의 기본적인 구성요소들을 가지고 있는 게임입니다.
 ---
 ## 실습 코드
 ### Manager  
-- [Managers.cs](https://github.com/Songhosub/FPS/blob/main/FPS/Assets/Scripts/PlayScene/GameManager.cs)  
-
+- [GameManager.cs](https://github.com/Songhosub/FPS/blob/main/FPS/Assets/Scripts/PlayScene/GameManager.cs)  
+### Battle  
+- [PlayerController.cs](https://github.com/Songhosub/FPS/blob/main/FPS/Assets/Scripts/PlayScene/Player/PlayerController.cs)  
+- [EnemyController.cs](https://github.com/Songhosub/FPS/blob/main/FPS/Assets/Scripts/PlayScene/Enemy/EnemyController.cs)  
+### Login  
+- [LoginManager.cs](https://github.com/Songhosub/FPS/blob/main/FPS/Assets/Scripts/MainScene/LoginManager.cs)  
 Etc  
 
 ---
@@ -24,8 +28,18 @@ Etc
 
 ### 전투
 ![캐릭터 이동]()  
+
+
+![Zoom IN, Zoom OUT]()  
 길 찾기 알고리즘을 이용한 이동 가능 범위을 표시  
 이동 가능 타일을 클릭하여 해당 위치로 이동  
+
+![캐릭터 이동]()  
+길 찾기 알고리즘을 이용한 이동 가능 범위을 표시  
+이동 가능 타일을 클릭하여 해당 위치로 이동  
+
+###
+
 
 ### 잔체적인 게임의 흐름
 - 시작 씬 흐름도  

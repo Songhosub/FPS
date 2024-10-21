@@ -16,7 +16,7 @@ FPS게임의 기본적인 구성요소들을 가지고 있는 게임입니다.
 ## 실습 코드
 ### Manager  
 - [GameManager.cs](https://github.com/Songhosub/FPS/blob/main/FPS/Assets/Scripts/PlayScene/GameManager.cs)
-- 
+
 ### Battle  
 - [PlayerController.cs](https://github.com/Songhosub/FPS/blob/main/FPS/Assets/Scripts/PlayScene/Player/PlayerController.cs)  
 - [EnemyController.cs](https://github.com/Songhosub/FPS/blob/main/FPS/Assets/Scripts/PlayScene/Enemy/EnemyController.cs)

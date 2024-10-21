@@ -56,7 +56,7 @@ PlayerPrefs를 이용한 로그인 시스템 구성
 1회에 한해 볼 수 있도록 설정
 
 ### 잔체적인 게임의 흐름
-- 시작 씬 흐름도  
+- 전체 흐름도  
 ![전체 흐름도](https://github.com/user-attachments/assets/80971668-1a23-431f-aecf-bdebdaee80af)
 
 

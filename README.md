@@ -57,6 +57,6 @@ PlayerPrefs를 이용한 로그인 시스템 구성
 
 ### 잔체적인 게임의 흐름
 - 전체 흐름도  
-![전체 흐름도](https://github.com/user-attachments/assets/80971668-1a23-431f-aecf-bdebdaee80af)
+![전체 흐름도](https://github.com/user-attachments/assets/51807cb9-e3f4-48a4-8a50-fa1893e9232d)
 
 
